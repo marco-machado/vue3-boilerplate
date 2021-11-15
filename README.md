@@ -6,6 +6,7 @@ It aims to provide a structure that scales and remains maintanable and extendabl
 
 ## Features
 
+- Implements a standard file and folder strucure
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 - Follows the [Vue.js Style Guide](https://v3.vuejs.org/style-guide/)
 
